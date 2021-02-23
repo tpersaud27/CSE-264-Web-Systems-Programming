@@ -1,5 +1,5 @@
 # CSE-264-Web-Systems-Programming
 CSE 264 Web Systems Programming\
-Lehigh University\ 
+Lehigh University 
 Spring 2021
 
